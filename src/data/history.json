@@ -1,0 +1,22 @@
+[
+ 
+  {
+    "role": "Cryptographic Security Intern",
+    "organisation": "ISRO,Kerala",
+    "startDate": "Jan, 2025",
+    "endDate": "Mar, 2025",
+    "experiences": ["Worked on python", "Designed the Invisible Watermark removal technique"],
+    "imageSrc": "history/isro.webp"
+  },
+  {
+    "role": "Cloud Computing Intern",
+    "organisation": "Madura Coats",
+    "startDate": "May,2023 ",
+    "endDate": "Jun, 2023",
+    "experiences": [
+      "Worked on Google Cloud Platform",
+      "Helped to automate tasks"
+    ],
+    "imageSrc": "history/Coats_logo.svg"
+  }
+]

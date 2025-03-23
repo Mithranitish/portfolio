@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Data Migration Project",
+    "imageSrc": "projects/data_migrate.webp",
+    "description": "This is a project made to automate the process of migration.",
+    "skills": ["Python","GCP","SQlServer"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Mithranitish/Data_Migration"
+  },
+  {
+    "title": "Content Approval System",
+    "imageSrc": "projects/yts.png",
+    "description": "YouTube content approval system with role-based access control..",
+    "skills": ["React","Spring Boot","GCP"],
+    "demo": "https://video-collaboration-hub.lovable.app/login",
+    "source": "https://github.com/Mithranitish/ContentApprovalSystem"
+  },
+  {
+    "title": "Chat Room",
+    "imageSrc": "projects/chatroom.png",
+    "description": "Optimizing scalability and message delivery for concurrent users.",
+    "skills": ["JS", "Spring Boot", "HTML","CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Mithranitish/spring-boot-websocket-chat-app"
+  }
+]
